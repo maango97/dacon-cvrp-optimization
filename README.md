@@ -4,7 +4,7 @@
 - 기간 : 2024.12 - 2025.01 (5인)
 - 성과 : Private 9th(상위 4%)
 - [데이터 출처(DACON)](https://dacon.io/competitions/official/236437/data)
-- [DACON 코드공유]()
+- [DACON 게시판 코드공유]()
 - [대회 제출 PPT]()
 
 
