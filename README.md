@@ -31,6 +31,7 @@
   - LKH-3 기반 초기 경로 도출 -> 4-OPT 기반 경로 최적화 -> 최종 최적화 경로 출력 
   
 - 최종 거리 : 2173.58914km (1위와 1.3km 차이)
+<img src="https://github.com/maango97/dacon-cvrp-optimization/blob/main/%EC%B5%9C%EC%A2%85%EA%B2%BD%EB%A1%9C_%EC%8B%9C%EA%B0%81%ED%99%94.png" width="600" height="600"/>
 
 
 ## 🧐고민의 흔적들
