@@ -1,5 +1,7 @@
 # 🎅선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전
 
+<img src = "https://github.com/maango97/dacon-cvrp-optimization/blob/main/%ED%91%9C%EC%A7%80.png" width="600" height="320"/>
+
 - 주제 : LKH-3와 4-OPT를 활용한 배송 경로 최적화
 - 기간 : 2024.12 - 2025.01 (5인)
 - 성과 : Private 9th(상위 4%)
