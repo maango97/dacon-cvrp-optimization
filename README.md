@@ -4,7 +4,7 @@
 
 - 주제 : LKH-3와 4-OPT를 활용한 배송 경로 최적화
 - 기간 : 2024.12 - 2025.01 (5인)
-- 성과 : Private 7th(상위 4%)
+- 성과 : Private 7th(상위 3%)
 - [데이터 출처(DACON)](https://dacon.io/competitions/official/236437/data)
 - [DACON 게시판 코드공유](https://dacon.io/competitions/official/236437/codeshare/12186?page=1&dtype=recent)
 - [대회 제출 PPT](https://github.com/maango97/dacon-cvrp-optimization/blob/main/DACON_%EC%A0%9C%EC%B6%9CPPT.pdf)
